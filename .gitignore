@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# gromacs temp files
+\#*
+*.log
+*.edr
+
+# tar files
+*.tar.gz
